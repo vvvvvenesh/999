@@ -1,0 +1,291 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#i5wv1 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3260/微信图片_20221124091159.png');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+.footer-1 .media-container-row {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    width: 100%;
+    color: rgb(122, 122, 122);
+}
+
+.footer-1 a {
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.footer-1 .mbr-text {
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+#header:not(.sticky-header) #logo a {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.c9357 {
+    top: 3rem;
+    left: 5.5rem;
+}
+
+[data-aos] {
+    opacity: 1 !important;
+    transform: translate(0px) scale(1) !important;
+}
+
+.c25189 {
+    color: rgb(17, 17, 17);
+    font-family: "PingFang SC";
+    font-size: 14px;
+    word-spacing: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.c25356 {
+    color: rgb(17, 17, 17);
+    font-family: "PingFang SC";
+    font-size: 14px;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.c25715 {
+    font-family: "PingFang SC";
+    font-feature-settings: "tnum";
+    color: rgba(17, 17, 17, 0.85);
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+    font-variant-east-asian: normal;
+    font-variant-alternates: normal;
+    line-height: 1.5;
+    list-style: none;
+    margin: 0px 0px 24px;
+    padding: 0px;
+    vertical-align: top;
+    zoom: 1;
+    display: flex;
+    height: auto;
+    position: relative;
+    word-spacing: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.c2758 {
+    width: 109.59988403320312px;
+    height: 90px;
+}
+
+.c11286 {
+    color: #d983a6;
+}
+
+.c12268 {
+    color: #d983a6;
+}
+
+.c12447 {
+    color: rgb(63, 120, 224);
+    outline: 0px;
+    border-color: rgb(63, 120, 224);
+}
+
+.c13839 {
+    color: #d983a6;
+}
+
+.c10152 {
+    padding: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    user-select: text;
+    word-break: break-word;
+    line-height: var(--cib-type-body2-line-height);
+    font-variation-settings: var(--cib-type-body2-font-variation-settings);
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c10170 {
+    padding: 0px;
+    margin: 12px 0px 0px;
+    user-select: text;
+    word-break: break-word;
+    line-height: var(--cib-type-body2-line-height);
+    font-variation-settings: var(--cib-type-body2-font-variation-settings);
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c10188 {
+    padding: 0px;
+    margin: 12px 0px 0px;
+    user-select: text;
+    word-break: break-word;
+    line-height: var(--cib-type-body2-line-height);
+    font-variation-settings: var(--cib-type-body2-font-variation-settings);
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c10206 {
+    margin: 12px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-inline-start: 24px;
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c10269 {
+    padding: 0px;
+    margin: 12px 0px 0px;
+    user-select: text;
+    word-break: break-word;
+    line-height: var(--cib-type-body2-line-height);
+    font-variation-settings: var(--cib-type-body2-font-variation-settings);
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c10296 {
+    margin: 12px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-inline-start: 24px;
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c10359 {
+    padding: 0px;
+    margin: 12px 0px 0px;
+    user-select: text;
+    word-break: break-word;
+    line-height: var(--cib-type-body2-line-height);
+    font-variation-settings: var(--cib-type-body2-font-variation-settings);
+    color: rgb(210, 208, 206);
+    font-family: -apple-system, Roboto, SegoeUI, "Segoe UI", "Helvetica Neue", Helvetica, "Microsoft YaHei", "Meiryo UI", Meiryo, "Arial Unicode MS", sans-serif;
+    word-spacing: 0px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.c1526 {
+    width: 70.80001831054688px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .text-h2, .fdb-block h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .text-h3, .fdb-block h3 {
+    font-size: 0.875rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 591px;
+    width: 591px;
+}
+
+.pt-3 {
+    padding-top: 1rem !important;
+}
+
+@media (min-width: 1200px) {
+    .pt-xl-5 {
+        padding-top: 3rem !important;
+    }
+}
